@@ -1,0 +1,21 @@
+{
+    "instagram": {
+        "username": "your_instagram_username",
+        "password": "your_instagram_password",
+        "target_username": "target_account_username"
+    },
+    "openai": {
+        "api_key": "your_openai_api_key_here"
+    },
+    "engagement": {
+        "posts_limit": 10,
+        "min_delay_between_actions": 30,
+        "max_delay_between_actions": 120,
+        "min_delay_between_posts": 90,
+        "max_delay_between_posts": 240
+    },
+    "scheduler": {
+        "enabled": false,
+        "times": ["09:15", "13:30", "18:45", "21:20"]
+    }
+}
