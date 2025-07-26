@@ -11,7 +11,7 @@ class CommentGenerator:
         """Generate a comment using OpenAI based on learned communication patterns"""
         style_context = self._build_communication_context(communication_patterns)
         
-        prompt = f"""You are writing an Instagram comment as a son/daughter to their mother's post. 
+        prompt = f"""You are writing an Instagram comment as a son to their mother's post. 
 
 Your communication style based on WhatsApp analysis:
 {style_context}
