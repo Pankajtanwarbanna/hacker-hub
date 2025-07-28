@@ -6,6 +6,10 @@ This isn’t a course. It’s not a tutorial series.
 
 It’s just a shelf full of **real builds** – the kind I personally love making, and maybe you will too.
 
+> If you enjoyed anything I made, consider fueling my tiny coffee fund :)
+
+<a href="https://www.buymeacoffee.com/the2ndfloorguy" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+
 ## 🧠 What’s Inside
 
 - Weird and fun complete projects
