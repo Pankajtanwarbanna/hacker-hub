@@ -69,7 +69,6 @@ chat_export*.txt
 
 # Instagram bot specific
 auto-like/config.json
-auto-like/*.txt
 auto-like/logs/
 
 # Node.js (if any future JS projects)

@@ -46,5 +46,4 @@ Thumbs.db
 *.log
 
 # WhatsApp exports (potentially sensitive)
-*.txt
 whatsapp_*
